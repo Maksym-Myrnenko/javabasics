@@ -1,0 +1,30 @@
+# OS X files #
+.DS_Store
+.DS_Store?
+
+# Package files #
+*.jar
+*.war
+*.ear
+
+# maven #
+log/
+target/
+
+# intellij files #
+.idea
+*.iml
+*.iws
+
+# Report files
+.allure/
+allure-report/
+allure-results/
+
+# ignore project files #
+.metadata
+.settings
+.project
+.classpath
+reports/
+*.log
